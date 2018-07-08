@@ -41,7 +41,7 @@ class ValidateBoard implements ValidatorConstraintInterface {
     }
 
     defaultMessage() { 
-        return "This is not a valid board, please POST a valid board";
+        return "This is not a valid board, please POST a valid board with 3 rows and 3 columns. Allowed chars are 'o','a','b' ";
     }
 }
 
