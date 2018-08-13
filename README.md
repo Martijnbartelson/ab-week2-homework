@@ -1,3 +1,7 @@
+# Codaisseur homework assignment
+During the weekend we had to create a backend for a tic-tac-toe game.
+Technologies used: Koa, Routing controllers, Class validators, TypeORM, Postgres
+
 # Typescript Homework
 
 _Note: we'll use the results of this homework assignment for a formal evaluation and as such you should write the code individually. Plagiarism is a violation of the Academy contract and makes nobody happy._
